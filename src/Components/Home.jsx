@@ -11,8 +11,8 @@ const Home = () => {
             A Web Developer
           </h2>
           <p className="text-black text-xl hover:italic">
-            I always try to give my best in making a website and in best design
-            possible. Welcome to my portfolio
+            I always try to give my best to make a website and in best design
+            possible. Welcome to my portfolio.
           </p>
           <button
             type="button"
