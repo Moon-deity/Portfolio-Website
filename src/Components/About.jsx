@@ -63,7 +63,7 @@ const About = () => {
         </div>
       </div>
       <div className="flex justify-center items-center">
-        <span class="material-symbols-outlined copyright-icon mx-2">
+        <span className="material-symbols-outlined copyright-icon mx-2">
           copyright
         </span>
         <span className="text-4xl">By Moon</span>
