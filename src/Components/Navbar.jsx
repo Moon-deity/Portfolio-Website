@@ -25,7 +25,7 @@ const Navbar = () => {
           )}
         </button>
         {MenuVisible && (
-          <div className="absolute flex justify-end top-20 border-2 border-red-800 w-screen right-0 bottom-0 backdrop-blur-sm">
+          <div className="absolute flex justify-end top-20 w-screen right-0 bottom-0 backdrop-blur-sm">
             <div className="flex flex-col gap-10 items-center w-60 bg-white pt-10">
               <Link
                 to="/"
