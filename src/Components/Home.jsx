@@ -25,22 +25,22 @@ const Home = () => {
           <img
             src="site1.jpg"
             alt="site"
-            className="w-2/3 mb-48 mt-24 hover:shadow-2xl hover:shadow-teal-800 hover:-translate-2 hover:transition -z-20"
+            className="w-2/3 mb-48 mt-24 hover:shadow-2xl hover:shadow-teal-800 hover:-translate-2 hover:transition z-10"
           />
           <img
             src="site2.jpg"
             alt="site"
-            className="absolute h-2/3 bottom-0 right-0 hover:shadow-2xl hover:shadow-teal-800 hover:-translate-2 hover:transition -z-10"
+            className="absolute h-2/3 bottom-0 right-0 hover:shadow-2xl hover:shadow-teal-800 hover:-translate-2 hover:transition z-20"
           />
           <img
             src="site3.jpg"
             alt="site"
-            className="absolute w-1/4 top-0 left-0 max-md:top-10 max-md:left-8 hover:shadow-2xl hover:shadow-teal-800 hover:-translate-2 hover:transition -z-10"
+            className="absolute w-1/4 top-0 left-0 max-md:top-10 max-md:left-8 hover:shadow-2xl hover:shadow-teal-800 hover:-translate-2 hover:transition z-20"
           />
           <img
             src="site4.jpg"
             alt="site"
-            className="absolute h-1/4 w-2/3 left-10 max-md:left-0 max-md:bottom-12 bottom-6 hover:shadow-2xl hover:shadow-teal-800 hover:-translate-2 hover:transition -z-10"
+            className="absolute h-1/4 w-2/3 left-10 max-md:left-0 max-md:bottom-12 bottom-6 hover:shadow-2xl hover:shadow-teal-800 hover:-translate-2 hover:transition z-20"
           />
         </div>
       </div>
