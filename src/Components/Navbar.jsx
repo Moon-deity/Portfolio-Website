@@ -48,14 +48,14 @@ const Navbar = () => {
                 About
               </Link>
               <Link
-                to="/social"
+                to="/repos"
                 className="text-5xl text-teal-800 flex justify-center gap-2"
                 onClick={toggleMenu}
               >
                 <span className="material-symbols-outlined nav-icons">
                   link
                 </span>
-                Social
+                Repos
               </Link>
             </div>
           </div>
@@ -74,10 +74,10 @@ const Navbar = () => {
             About
           </Link>
           <Link
-            to="/social"
+            to="/repos"
             className="cursor-pointer hover:text-white px-8 hover:py-12 hover:bg-teal-800 hover:z-10 hover:rounded-full hover:ease-out hover:duration-300"
           >
-            Social
+            Repos
           </Link>
         </div>
       </div>
